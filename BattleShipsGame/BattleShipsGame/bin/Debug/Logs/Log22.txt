@@ -1,0 +1,4 @@
+Jdog, A3, Miss
+sevarge, I5, Miss
+Jdog, F6, Hit
+sevarge, G2, Hit

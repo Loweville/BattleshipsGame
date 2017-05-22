@@ -1,0 +1,4 @@
+Jen, f4, Miss
+J, a1, Hit
+S, a1, Hit
+J, d4, Miss

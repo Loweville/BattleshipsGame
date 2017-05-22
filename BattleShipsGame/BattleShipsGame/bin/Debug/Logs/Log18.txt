@@ -1,0 +1,9 @@
+Sngw, A3, Miss
+sjbg, B5, Hit
+Sngw, J8, Miss
+sjbg, C3, Miss
+Sngw, D5, Miss
+sjbg, C5, Miss
+Sngw, A1, Miss
+sjbg, A5, Miss
+Sngw, F5, Hit

@@ -1,0 +1,9 @@
+Jen, A3, Miss
+s/eo, D3, Hit
+Jen, J6, Miss
+s/eo, C3, Hit
+Jen, D3, Hit
+s/eo, B3, Hit
+Jen, G6, Miss
+s/eo, A3, Miss
+Jen, H6, Miss

@@ -1,0 +1,15 @@
+Jens, D6, Miss
+Sen, E2, Miss
+Jens, G6, Miss
+Sen, H7, Miss
+Jens, A3, Miss
+Sen, G8, Miss
+Jens, A6, Miss
+Sen, C6, Miss
+Jens, D5, Hit
+Sen, D6, Miss
+Jens, E6, Miss
+Sen, F5, Hit
+Jens, A1, Miss
+Sen, E6, Miss
+Jens, D4, Miss

@@ -1,0 +1,8 @@
+Jen, A4, Hit
+sbr, B1, Miss
+Jen, A6, Hit
+sbr, C1, Miss
+Jen, A5, Hit
+sbr, D6, Hit
+Jen, A3, Miss
+sbr, E3, Miss

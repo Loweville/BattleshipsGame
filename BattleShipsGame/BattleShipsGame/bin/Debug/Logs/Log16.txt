@@ -1,0 +1,9 @@
+Jen, D4, Hit
+Sen, B4, Hit
+Jen, D3, Hit
+Sen, A3, Miss
+Jen, H7, Miss
+Sen, C3, Miss
+Jen, H3, Hit
+Sen, B2, Miss
+Jen, F3, Miss

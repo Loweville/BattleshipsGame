@@ -1,0 +1,11 @@
+Jdog, F5, Miss
+sevarge, H2, Hit
+Jdog, F7, Miss
+sevarge, F2, Hit
+Jdog, G6, Hit
+sevarge, E2, Miss
+Jdog, E6, Hit
+sevarge, A3, Hit
+Jdog, H6, Miss
+sevarge, B3, Hit
+Jdog, D6, Hit
